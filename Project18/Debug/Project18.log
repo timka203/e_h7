@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\тимур\source\repos\project18\project18\source.cpp(76): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\тимур\source\repos\project18\project18\source.cpp(30): warning C4715: func2: значение возвращается не при всех путях выполнения
+  Project18.vcxproj -> C:\Users\Тимур\source\repos\Project18\Debug\Project18.exe
